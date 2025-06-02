@@ -7,6 +7,7 @@ public:
                 cleaned += tolower(c);
             }
         }
+
         int left = 0;
         int right = cleaned.size() - 1;
 
@@ -17,6 +18,7 @@ public:
             left++;
             right--;
         }
-        return true;
+
+        return true; // ✅ This was missing
     }
 };
