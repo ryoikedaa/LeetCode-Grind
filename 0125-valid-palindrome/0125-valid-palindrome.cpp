@@ -19,6 +19,6 @@ public:
             right--;
         }
 
-        return true; // ✅ This was missing
+        return true;
     }
 };
