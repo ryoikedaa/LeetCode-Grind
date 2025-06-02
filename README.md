@@ -26,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
