@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
+| [3379-score-of-a-string](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
