@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
