@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
