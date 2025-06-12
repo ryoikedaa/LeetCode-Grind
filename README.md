@@ -16,6 +16,7 @@ Number of Problems Solved: 20
 | [0074-search-a-2d-matrix](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +94,16 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
