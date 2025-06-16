@@ -18,6 +18,7 @@ Number of Problems Solved: 20
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -28,6 +29,7 @@ Number of Problems Solved: 20
 | [0141-linked-list-cycle](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -37,6 +39,7 @@ Number of Problems Solved: 20
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -71,6 +74,7 @@ Number of Problems Solved: 20
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
@@ -109,4 +113,20 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
