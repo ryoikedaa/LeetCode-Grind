@@ -18,6 +18,7 @@ Number of Problems Solved: 20
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,4 +130,8 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
