@@ -57,6 +57,7 @@ Number of Problems Solved: 20
 | ------- |
 | [0009-palindrome-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
@@ -137,4 +138,12 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
