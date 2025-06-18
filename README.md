@@ -26,6 +26,7 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ Number of Problems Solved: 20
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ Number of Problems Solved: 20
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
