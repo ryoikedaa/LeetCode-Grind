@@ -51,6 +51,7 @@ Number of Problems Solved: 27
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/3379-score-of-a-string) |
@@ -71,6 +72,7 @@ Number of Problems Solved: 27
 | [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
