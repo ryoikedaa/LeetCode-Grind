@@ -62,6 +62,7 @@ Number of Problems Solved: 27
 | ------- |
 | [0009-palindrome-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2383-add-two-integers) |
@@ -80,6 +81,7 @@ Number of Problems Solved: 27
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
