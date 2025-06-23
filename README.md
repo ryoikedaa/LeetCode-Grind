@@ -22,6 +22,7 @@ Number of Problems Solved: 27
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Number of Problems Solved: 27
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -61,6 +63,7 @@ Number of Problems Solved: 27
 | [0009-palindrome-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0258-add-digits) |
+| [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
@@ -86,6 +89,7 @@ Number of Problems Solved: 27
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
