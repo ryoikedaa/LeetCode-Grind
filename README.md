@@ -14,6 +14,7 @@ Number of Problems Solved: 27
 | [0027-remove-element](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0200-number-of-islands) |
@@ -42,6 +43,7 @@ Number of Problems Solved: 27
 | ------- |
 | [0015-3sum](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +76,7 @@ Number of Problems Solved: 27
 | [0015-3sum](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
