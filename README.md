@@ -22,6 +22,7 @@ Number of Problems Solved: 27
 | [0238-product-of-array-except-self](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
@@ -47,6 +48,7 @@ Number of Problems Solved: 27
 | [0217-contains-duplicate](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -81,6 +83,7 @@ Number of Problems Solved: 27
 | [0141-linked-list-cycle](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/ryoikedaa/LeetCode-Grind/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
