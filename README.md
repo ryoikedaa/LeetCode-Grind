@@ -1,6 +1,6 @@
 # LeetCode-Grind
 A collection of LeetCode questions I've worked on!  - Created using this [chrome extension](https://github.com/arunbhardwaj/LeetHub-2.0)
-Number of Problems Solved: 27 
+Number of Problems Solved: 37 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
